@@ -1,0 +1,79 @@
+Week One Code Challenge: Toy Problems 
+
+Description
+
+The three wrritten programs are solutions to three challenges that I was worked on. The challanges are as listed below.
+
+Challenge 1: Student Grade Generator 
+
+Write a function that prompts the user to input student marks. The input should be between 0 and 100. The output should correspond the correct grade, as shown below: 
+
+        A > 79, B - 60 to 79, C -  59 to 49, D - 40 to 49, E - less 40.
+
+
+
+CHallenge 2: Speed Detector 
+
+Write a program that takes the speed of a car as input e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
+
+   > For example, if the speed is 80, it should print: “Points: 2”. If the driver gets more than 12 points, the function should print: “License suspended”.
+
+
+
+Challenge 3: Speed Detector 
+
+Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIF Deductions, NSSF Deductions, gross salary, and net salary. 
+
+
+Links provided to asssist in the above problem:
+
+- https://www.aren.co.ke/payroll/taxrates.htm Links to an external site.
+
+Links to an external site.-  Links to an external site.Links to an external site.
+
+- www.kra.go.ke/en/individual/calculate-tax/calculating-tax/payeLinks to an external site.
+
+
+
+Set Up Instructions:
+
+Challenge 1: Student Grade Generator
+
+For the first challenge, the program requires you to insert your marks on and you will recieve a grade according to your marks.
+
+
+
+Challenge 2: Speed Detector 
+
+Here, the program requires the speed to be inserted, then it prints either "Ok", "License suspended" or the number of demerits depending with the speed inserted.
+
+
+
+Challenge 3: Net Salary Calculator
+
+This program takes the basic salary that has been inputed and deducts the necessary decuctions; tax, NHIF and NSSF, providing you the amount of net salary of the basic salary entered. 
+
+
+
+
+License
+
+Copyright (c) [2023] [Enock Wanjala]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
